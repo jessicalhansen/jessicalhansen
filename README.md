@@ -17,12 +17,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jcScb6OkzEoP3L9-hHkRUEEmNTrV-E0K/view](https://drive.google.com/file/d/1jcScb6OkzEoP3L9-hHkRUEEmNTrV-E0K/view)
 
-- ⚡ Fun fact **I own four fluffy cats.**
+- ⚡ Fun fact **I own four fluffy cats 🐈‍⬛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/javascriptjess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="javascriptjess" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jessical-hansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jessical-hansen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessical-hansen" target="blank"><i class="fab fa-linkedin"></i></a>
 <a href="https://www.leetcode.com/jessicalhansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="jessicalhansen" height="30" width="40" /></a>
 </p>
 
