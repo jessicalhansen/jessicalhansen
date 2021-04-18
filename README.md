@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **anything, hit me up!**
 
-- 👨‍💻 All of my projects are available at [https://www.javascriptwithjessica.com/](https://www.javascriptwithjessica.com/)
+- 👨‍💻 All of my projects are available at [my portfolio - JavaScript with Jessica](https://www.javascriptwithjessica.com/)
 
 - 💬 Ask me about **CSS and React**
 
 - 📫 How to reach me **jessicalynnehansen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jcScb6OkzEoP3L9-hHkRUEEmNTrV-E0K/view](https://drive.google.com/file/d/1jcScb6OkzEoP3L9-hHkRUEEmNTrV-E0K/view)
+- 📄 View my professional experience on my [resume](https://drive.google.com/file/d/1jcScb6OkzEoP3L9-hHkRUEEmNTrV-E0K/view)
 
 - ⚡ Fun fact **I own four fluffy cats 🐈‍⬛**
 
