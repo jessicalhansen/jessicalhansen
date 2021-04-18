@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jessica Hansen</h1>
 <h3 align="center">an enthusiastic software engineer from Salt Lake City, UT.</h3>
 
+<p align="center">Overcoming challenges allowed me to excel in Education. I strived to resolve complaints that impacted both student(customer) and employee success in a timely manner. Now, I’m using technology to boost my creativity and curiosity to find more efficient and effective solutions. My love of puzzles has ignited a passion for problem-solving using code instead of cardboard, and I am always challenging myself to learn new things and perfect what I already know.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicalhansen&label=Profile%20views&color=0e75b6&style=flat" alt="jessicalhansen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/javascriptjess" target="blank"><img src="https://img.shields.io/twitter/follow/javascriptjess?logo=twitter&style=for-the-badge" alt="javascriptjess" /></a> </p>
@@ -8,6 +10,8 @@
 - 🔭 I’m currently working on [CannaHome](https://github.com/jessicalhansen/CannaHome)
 
 - 🌱 I’m currently learning **GraphQL and even more React**
+
+- 👯 I’m looking to collaborate on **anything, hit me up!**
 
 - 👨‍💻 All of my projects are available at [https://www.javascriptwithjessica.com/](https://www.javascriptwithjessica.com/)
 
@@ -21,9 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/javascriptjess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="javascriptjess" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jessical-hansen" target="blank"><i class="fab fa-linkedin"></i></a>
-<a href="https://www.leetcode.com/jessicalhansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="jessicalhansen" height="30" width="40" /></a>
+<a href="https://twitter.com/javascriptjess" target="blank"><img align="center" src="https://camo.githubusercontent.com/c58e07fb34a45fd051183258b5860608dd86ac98dd151d0522e0575966082b88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="javascriptjess" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessical-hansen" target="blank"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="jessical-hansen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
