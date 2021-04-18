@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessica Hansen</h1>
 <h3 align="center">an enthusiastic software engineer from Salt Lake City, UT.</h3>
 
-<p align="center">Overcoming challenges allowed me to excel in Education. I strived to resolve complaints that impacted both student(customer) and employee success in a timely manner. Now, I’m using technology to boost my creativity and curiosity to find more efficient and effective solutions. My love of puzzles has ignited a passion for problem-solving using code instead of cardboard, and I am always challenging myself to learn new things and perfect what I already know.</p>
+<p>Overcoming challenges allowed me to excel in Education. I strived to resolve complaints that impacted both student(customer) and employee success in a timely manner. Now, I’m using technology to boost my creativity and curiosity to find more efficient and effective solutions. My love of puzzles has ignited a passion for problem-solving using code instead of cardboard, and I am always challenging myself to learn new things and perfect what I already know.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicalhansen&label=Profile%20views&color=0e75b6&style=flat" alt="jessicalhansen" /> </p>
 
